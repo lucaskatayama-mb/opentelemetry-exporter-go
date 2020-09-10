@@ -1,4 +1,4 @@
-module github.com/newrelic/opentelemetry-exporter-go
+module github.com/lucaskatayama-mb/opentelemetry-exporter-go
 
 go 1.13
 

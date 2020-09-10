@@ -20,7 +20,7 @@ import (
 	"go.opentelemetry.io/otel/semconv"
 
 	"github.com/newrelic/newrelic-telemetry-sdk-go/telemetry"
-	"github.com/newrelic/opentelemetry-exporter-go/newrelic/internal/transform"
+	"github.com/lucaskatayama-mb/opentelemetry-exporter-go/newrelic/internal/transform"
 	exportmetric "go.opentelemetry.io/otel/sdk/export/metric"
 	exporttrace "go.opentelemetry.io/otel/sdk/export/trace"
 	sdktrace "go.opentelemetry.io/otel/sdk/trace"

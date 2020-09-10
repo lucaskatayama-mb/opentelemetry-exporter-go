@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/newrelic/newrelic-telemetry-sdk-go/telemetry"
-	"github.com/newrelic/opentelemetry-exporter-go/newrelic"
+	"github.com/lucaskatayama-mb/opentelemetry-exporter-go/newrelic"
 	"go.opentelemetry.io/otel/api/global"
 	"go.opentelemetry.io/otel/label"
 	"go.opentelemetry.io/otel/sdk/metric/controller/push"
